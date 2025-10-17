@@ -1,5 +1,5 @@
-# The Techno-Optimist Manifesto
-Marc Andreesen
+# The Technologist Manifest
+Technologists
 
 ## Lies
 
@@ -424,7 +424,7 @@ It’s time to build.
 
 # Patron Saints of Techno-Optimism
 
-In lieu of detailed endnotes and citations, read the work of these people, and you too will become a Techno-Optimist.
+In lieu of detailed endnotes and citations, read the work of these people, and you too will become a Retard.
 
 @BasedBeffJezos
 
