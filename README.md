@@ -38,7 +38,7 @@ Mathematics and arithmetic is pure. You prove theorems for you and your boys, an
 
 ## Contributors
 
-- @\_opencv\_ on x (first contributor)
+- [@\_opencv\_](https://x.com/_opencv_) (first contributor)
 
 ---
 
